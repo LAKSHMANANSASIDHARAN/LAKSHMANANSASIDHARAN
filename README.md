@@ -2,7 +2,7 @@ Hi, I'm Lakshmanan S 👋
 
 I am a pre-final year Computer Science Engineering student at Vel Tech High Tech, Avadi, Chennai,
 with a keen interest in problem solving and a deep passion for Data Structures & Algorithms (DSA). 
-Having solved over 250+ problems on LeetCode, I am dedicated to improving my algorithmic skills and striving toward my goal of becoming a software developer.
+Having solved over 300+ problems on LeetCode, I am dedicated to improving my algorithmic skills and striving toward my goal of becoming a software developer.
 
 💻 Problem Solving: Regularly solving complex problems on LeetCode and other platforms.
 
